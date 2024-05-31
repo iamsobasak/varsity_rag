@@ -1,4 +1,3 @@
-```markdown
 # Varsity RAG Q&A
 
 ## Description
@@ -47,4 +46,4 @@ To run the Varsity RAG Q&A application locally, follow these steps:
      ```
 
 This will launch the Varsity RAG Q&A application in your default web browser.
-```
+
