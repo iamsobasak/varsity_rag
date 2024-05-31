@@ -1,7 +1,7 @@
-# Varsity RAG Q&A
+# Varsity Query
 
 ## Description
-Varsity RAG Q&A is a Q&A application for Zerodha Varsity Modules. The modules can be found [here](https://zerodha.com/varsity/modules/).
+Varsity Query is a Q&A application for Zerodha Varsity Modules. The modules can be found [here](https://zerodha.com/varsity/modules/).
 
 ## Prerequisites
 To run this application, you will need an API key. You can create your `OPENAI_API_KEY` [here](https://platform.openai.com/account/api-keys).
